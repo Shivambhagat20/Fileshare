@@ -5,7 +5,7 @@ In the terminal (where the server file is) run the server using "python3 \<filen
 
 
 ## To start the client
-#### Near the top of the file, under the import statements, fill in the variables for the host server ip and port number respectively (was using eagles 130.179.28.113 8240 for testing)
+#### Near the top of the file, under the import statements, fill in the variables for the host server ip and port number respectively
 #### In the terminal (where the client file is) run the client using "python3 \<filename>"
 
 
