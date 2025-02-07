@@ -1,4 +1,4 @@
-# COMP3010 A1
+# Fileshare
 
 ## To start the server
 In the terminal (where the server file is) run the server using "python3 \<filename>"
